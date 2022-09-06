@@ -18,4 +18,10 @@ Techs that I've used at least once <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+</div> <br>
+
+💁‍♂️ My Portfolio <br>
+
+<div>
+<img src="https://img.shields.io/badge/My Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://glacier-cardinal-b6f.notion.site/698488c4aabc4e26864fd1dcf365f302"/>
 </div>
