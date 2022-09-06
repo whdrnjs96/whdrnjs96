@@ -3,7 +3,7 @@
 👋 Contact <br><br>
 <img src="https://img.shields.io/badge/jongkwon.lee.alex@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/JongkwonLee-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-<br><br>
+<br>
 
 🛠️ Tech Stack 🛠 <br>
 Techs that I've used at least once <br>
