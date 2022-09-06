@@ -23,5 +23,7 @@ Techs that I've used at least once <br>
 💁‍♂️ My Portfolio <br>
 
 <div>
+<a href = "https://glacier-cardinal-b6f.notion.site/698488c4aabc4e26864fd1dcf365f302">
 <img src="https://img.shields.io/badge/My Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://glacier-cardinal-b6f.notion.site/698488c4aabc4e26864fd1dcf365f302"/>
+</a>
 </div>
